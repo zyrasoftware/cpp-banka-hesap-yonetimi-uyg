@@ -16,10 +16,10 @@ Bu program, basit bir banka hesap yönetimi uygulamasını simüle eder. Her bir
  
 
   # `main` Fonksiyonu
-  - `main` fonksiyonu, `Bank` sınıfını kullanarak bir banka uygulamasını simüle eder.
-  - İlk olarak, **"Ahmet"** ve **"Ayşe"** adında iki banka hesabı oluşturulur ve listelenir.
-  - **"Ahmet"** hesabına 1000 TL yatırılır ve 500 TL çekilir.
-  - Son durumda hesaplar tekrar listelenir.
+- `main` fonksiyonu, `Bank` sınıfını kullanarak bir banka uygulamasını simüle eder.
+- İlk olarak, **"Ahmet"** ve **"Ayşe"** adında iki banka hesabı oluşturulur ve listelenir.
+- **"Ahmet"** hesabına 1000 TL yatırılır ve 500 TL çekilir.
+ - Son durumda hesaplar tekrar listelenir.
     
 **Bu program, basit bir banka hesap yönetimi uygulamasını simüle eder ve temel bankacılık işlemlerini gerçekleştirir.**
 
